@@ -14,10 +14,10 @@ function logWhisper(string) {
   console.log('hello')
 }
 
-function sayHiToGrandma('HELLO') {
+function sayHiToGrandma(string) {
   return string.toLowerCase()
 }
 
-function sayHiToGrandma('hello') {
+function sayHiToGrandma(string) {
   return string.toUpperCase()
 }
