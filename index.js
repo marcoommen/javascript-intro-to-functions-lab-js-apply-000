@@ -19,3 +19,6 @@ function sayHiToGrandma(string) {
   
 }
 
+function sayHiToGrandma('hello')
+
+function sayHiToGrandma('HELLO')
